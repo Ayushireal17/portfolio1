@@ -1,3 +1,4 @@
+https://portfolio1-ayushireal17s-projects.vercel.app/
 A personal portfolio handcrafted with Next.js 15, Tailwind v4, and Framer Motion. Featuring a sleek bento-grid layout, dynamic dark mode, and a signature purple aesthetic.
 I’m a Front-End Developer and UI/UX Designer dedicated to building digital experiences that are as functional as they are beautiful.
 portfolio1 is my personal playground for testing the limits of modern web aesthetics.
