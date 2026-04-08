@@ -16,7 +16,7 @@ A minimalist, high-end portfolio featuring a **Bento Grid** layout, custom **Dar
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Fonts**: Space Grotesk via Google Fonts
-## 📸 Preview
+
 ## 📥 Local Setup
 1. Clone the repo: `git clone https://github.com/Ayushireal17/portfolio1.git`
 2. Install dependencies: `npm install`
